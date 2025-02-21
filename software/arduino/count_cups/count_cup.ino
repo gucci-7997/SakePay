@@ -2,11 +2,11 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid     = "RDlab_24"; //Your SSID
-const char* password = "e2iz6uvd"; //Your Password
+const char* ssid     = ""; //Your SSID
+const char* password = ""; //Your Password
 
 // google spread sheet script
-const String url = "https://script.google.com/macros/s/AKfycbwjv2X7s-WY6P5Ypoos1aDCDTsAMG6mDoTnEoM1VBDtdutNeSM53f4SP8kWOpmWGkk-/exec";
+const String url = "";
 
 // google spread sheet
 int id = 0;
