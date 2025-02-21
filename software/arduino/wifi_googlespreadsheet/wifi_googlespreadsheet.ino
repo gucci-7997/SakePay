@@ -2,12 +2,12 @@
 #include <HTTPClient.h>
 //Wi-Fi
 
-const char* ssid     = "RDlab_24"; //Your SSID
-const char* password = "e2iz6uvd"; //Your Password
+const char* ssid     = ""; //Your SSID
+const char* password = ""; //Your Password
 
 //Google Spreadsheet
-// const String url = "https://script.google.com/macros/s/AKfycbzGz0BU80cTa-HkQcWN8ebx2G8M3c6p-Se7q7R_0S1iLWMLQ3W9fC_F-W_Gqbvmp_Lz/exec";
-const String url = "https://script.google.com/macros/s/AKfycbwjv2X7s-WY6P5Ypoos1aDCDTsAMG6mDoTnEoM1VBDtdutNeSM53f4SP8kWOpmWGkk-/exec";
+// const String url = "";
+const String url = "";
 
 
 int id = 0;         //コースターID
